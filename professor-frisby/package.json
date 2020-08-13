@@ -1,0 +1,12 @@
+{
+  "name": "professor-frisby",
+  "version": "1.0.0",
+  "description": "professor frisby in ramda",
+  "main": "index.js",
+  "author": "lekha-surasani",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.1",
+    "sanctuary": "^3.0.0"
+  }
+}
